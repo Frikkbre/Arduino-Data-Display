@@ -2,6 +2,6 @@
 Personal data display using arduino uno
 
 ## Hardware
-Arduino Uno
-Alphanumeric L2C LCD Screen
+Arduino Uno <b>
+Alphanumeric L2C LCD Screen <b>
 Arduino TMP36 sensor
