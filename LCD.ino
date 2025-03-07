@@ -20,7 +20,7 @@ void loop() {
   lcd.print("Frikk Braendsrod");
   lcd.setCursor(2, 1);
   lcd.print("NTNU Gjovik");
-  delay(5000);
+  delay(2000);
 
   // Read temperature and update display
   double tempSum = 0.0;
@@ -47,5 +47,5 @@ void loop() {
   lcd.print(temp, 2); // Show temp with 2 decimal places
   lcd.print(" C");
 
-  delay(5000); // Show temp for 2 seconds before switching back
+  delay(10000); // Show temp for 2 seconds before switching back
 }
